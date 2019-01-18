@@ -1,0 +1,25 @@
+h2{
+  color:#444444;
+  font-size: 28px;
+  line-height: 32px;
+}
+h3{
+  font-size:18px;
+  text-align: center;
+}
+.row{
+  margin-bottom: 8%
+}
+ #containeurfluid{
+  display:none;
+}
+
+@media screen and (max-width: 680px){
+  #containeur{
+    display: none;
+  }
+  #containeurfluid{
+    display:block;
+  }
+
+}

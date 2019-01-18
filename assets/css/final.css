@@ -1,0 +1,219 @@
+
+h2{
+  color:#444444;
+  font-size: 28px;
+  line-height: 32px;
+}
+h3{
+  font-size:18px;
+  text-align: center;
+}
+.row{
+  margin-bottom: 8%
+}
+ #containeurfluid{
+  display:none;
+}
+
+
+
+/* #mobileContainer{
+  display: none;
+} */
+#firstimgLeft{
+  background-image: url('../img/20603-home-ces-product-showcase-720x245.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 192px;
+  width: 569px;
+  border-right: 7px  solid white;
+}
+#title1{
+  color: #007db8;
+}
+#text1{
+  font-size: 14px;
+  color: black;
+}
+.test{
+  background-color: white;
+  line-height: 80%;
+  top: 10%;
+  opacity: 0.9;
+  border: 1px solid white;
+  border-radius: 5%;
+}
+#secondimgRight{
+  background-image: url('../img/19703-sb-lifestyle-businessman-720x245.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 192px;
+  width: 569px;
+  border-left: 7px  solid white;
+  padding: 0%;
+  width: 100%;
+}
+a{
+  width: 100%;
+}
+.test2{
+  background-color: white;
+  opacity: 0.9;
+  border: 1px solid white;
+  top:83%;
+}
+#title2{
+  font-size: 16px;
+  color: #007db8;
+}
+.firstLine{
+  margin-bottom: 2%;
+}
+#thirdimg{
+  background-image: url('../img/contentTeaser1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 276.5px;
+  height: 192px;
+  border-right: 7px  solid white;
+  padding: 0%;
+}
+#fourthimg{
+  background-image: url('../img/dell-emc-hp-ssi-module-352x245.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 276.5px;
+  height: 192px;
+  border-left: 7px  solid white;
+  border-right: 7px  solid white;
+  padding: 0%;
+}
+#fifthimg{
+  background-image: url('../img/17345-home-desktop-inspiron-22-3263-aio-laptop-xps-13-9360-alienware-17-352x245.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 276.5px;
+  height: 192px;
+  border-right: 7px  solid white;
+  border-left: 7px  solid white;
+  padding: 0%;
+}
+#sixthimg{
+  background-image: url('../img/prosupport-plus-enterprise-server-racks-data-center-24k-352x245.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 276.5px;
+  height: 192px;
+  border-left: 7px  solid white;
+  padding: 0%;
+}
+.text3{
+  font-size: 14px;
+  line-height: 20px;
+}
+.test3{
+  background-color: white;
+  opacity: 0.9;
+  border: 1px solid white;
+  top:70%;
+}
+.test4{
+  background-color: white;
+  opacity: 0.9;
+  border: 1px solid white;
+  top:83%;
+}
+.test5{
+  background-color: white;
+  opacity: 0.9;
+  border: 1px solid white;
+  top:76%;
+}
+.test6{
+  background-color: white;
+  opacity: 0.9;
+  border: 1px solid white;
+  top:70%;
+}
+.threeFooter{
+  background-color: #EEEEEE;
+  border: 1px solid #ddd;
+  height: 167.5px;
+}
+.threeFooter:hover{
+  background-color: white;
+}
+.text3Footer{
+  text-decoration: none;
+  font-size: 12px;
+  color: #434343;
+}
+.footerFirst{
+  background-color: #EEEEEE;
+  height: 41px;
+}
+.footerFirst2{
+  background-color: #EEEEEE;
+}
+.footerFirst2 a{
+  text-decoration: none;
+  color: #434343;
+  border-bottom: 1px solid #aaa;
+  width: 100%;
+  padding: 10px 5px 10px 15px;
+  font-size: 14px;
+}
+.footerFirst a{
+  list-style: none;
+  text-decoration: none;
+  padding-top: 8px;
+  font-size: 14px;
+  padding-right: 10px;
+}
+.footerFirst li{
+  display: inline;
+}
+.footerLiFirst{
+  padding-left: 10px;
+}
+.footerFirst a{
+  color: #444;
+}
+.footerFirst img{
+  padding-right: 35px;
+}
+.footerSecond{
+  background-color: #007DB8;
+  height: 41px;
+}
+.footerSecond ul{
+  list-style: none;
+  text-decoration: none;
+  padding-top: 5px;
+}
+.footerSecond li{
+  display: inline;
+  font-size: 11px;
+  padding-right: 5px;
+}
+.footerSecond a{
+  color: white;
+}
+.footerSecond2{
+  background-color: #007DB8;
+}
+.footerSecond2 a{
+  color: white;
+  border-bottom: 1px solid white;
+  text-decoration: none;
+  font-size: 14px;
+  width: 100%;
+  padding: 10px 5px 10px 15px;
+}
+
+@media screen and (max-width: 1080px) {
+
+  #img #img2 {
+    display: none;
+  }
+}
